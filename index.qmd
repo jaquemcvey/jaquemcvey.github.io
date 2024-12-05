@@ -1,12 +1,27 @@
 ---
-title: "jaquemcvey.github.io"
+title: "Jaque Rafts"
+image: rafting.JPEG
+about: 
+  template: marquee
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jaquerafts/
+    - text: Twitter
+      href: https://twitter.com/jaquerafts
+    - text: GitHub
+      href: https://github.com/jaquerafts
+    - text: Email
+      href: mailto:jaquerafts@colostate.edu
 ---
 
-This is a Quarto website.
+**Company**: Mountain Whitewater
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**River**: Cache La Poudre
 
-```{r}
-1 + 1
-```
+**Experience**: 6 years
 
+**Role**: River Manager/Guide
+
+**Favorite Rapid**: Mishawaka Falls
